@@ -1,0 +1,6 @@
+####################################################################################################
+##transcriptome analysis of host-microbiome crosstalk (TAHMC):
+#TAHMC is a comprehensive and strict pipeline, including quality control, alignment, decontamination, and normalization.
+##
+#1)Bulk RNA-seq data processing and mapping
+#2)Microbial data decontamination and normalization
