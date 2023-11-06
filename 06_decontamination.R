@@ -208,5 +208,4 @@ contam<-read.csv("./Supplement/contaminant.csv")
 contam$genera_Salter<-paste0("g__",contam$genera_Salter)
 
 ####(5)Manual literature inspection filtering:
-
 ####To further fully remove potential contaminants from the data, following the four steps listed above we then applied a manual literature search to remove other microbial genera that were unlikely to be present in the samples.
