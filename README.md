@@ -4,6 +4,9 @@ A new pipeline, named transcriptome analysis of host-microbiome crosstalk (TAHMC
 
 
 
+
+
+
 #The procedures of TAHMC
 
 1)Bulk RNA-seq data processing and mapping：
@@ -13,6 +16,9 @@ A new pipeline, named transcriptome analysis of host-microbiome crosstalk (TAHMC
 
 
 We applied TAHMC to a total of 1855 samples (1554 CD samples and 301 control samples) of RNA-Seq data。
+
+
+
 
 #######
 
