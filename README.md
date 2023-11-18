@@ -20,7 +20,7 @@ Please see the related manuscript for more information.
 
 ### Using the codes:
 -  01.Download
--  02.Quality control (QC)
+-  02.Quality checks (QC)
 -  03.Host mapping
 -  04.Microbiome mapping
 -  05.Mapping results compilation
