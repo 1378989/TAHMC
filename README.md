@@ -15,6 +15,9 @@ The procedures of TAHMC:
 -  (4) Blacklist filtering:
 -  (5) Manual literature inspection filtering:
 
+![Untitled](https://github.com/1378989/TAHMC/assets/85168692/0ade5c15-e0a2-4d3c-af03-f5ea3847ec11) ** A schematic representation of the TAHMC workflow
+<font size="3">
+
 Please see the related manuscript for more information.
 
 
