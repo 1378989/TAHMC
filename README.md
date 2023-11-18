@@ -7,25 +7,25 @@ Huijun Chang
 We propose a novel pipeline, dubbed Transcriptome Analysis of Host-Microbiome Crosstalk (TAHMC), designed to concurrently restore both host gene expression and microbial quantification from bulk RNA-seq data.
 
 The procedures of TAHMC:
-1) Bulk RNA-seq data processing and mapping
-2) Microbial data decontamination and normalization
-(1) Batch filtering:
-(2) Correlation filtering:
-(3) Prevalence and read count filtering:
-(4) Blacklist filtering:
-(5) Manual literature inspection filtering:
+-  1) Bulk RNA-seq data processing and mapping
+-  2) Microbial data decontamination and normalization
+-  (1) Batch filtering:
+-  (2) Correlation filtering:
+-  (3) Prevalence and read count filtering:
+-  (4) Blacklist filtering:
+-  (5) Manual literature inspection filtering:
 
 Please see the related manuscript for more information.
 
 
 ### Using the codes:
-01.Download
-02.QC
-03.Host mapping
-04.Microbiome mapping
-05.Mapping results compilation
-06.decontamination
-07.normalization
+-  01.Download
+-  02.QC
+-  03.Host mapping
+-  04.Microbiome mapping
+-  05.Mapping results compilation
+-  06.decontamination
+-  07.normalization
 
 ##  01.Download
 ``` bash
